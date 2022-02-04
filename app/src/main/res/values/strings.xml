@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">simpleNavComposeScreenSpec</string>
+    <string name="screenA">screenA</string>
+    <string name="screenB">screenB</string>
+    <string name="screenC">screenC</string>
+
+</resources>
